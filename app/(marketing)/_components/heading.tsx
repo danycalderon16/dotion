@@ -18,7 +18,7 @@ export const Heading = () => {
         <span className="underline">Dotion</span>
       </h1>
       <h3 className="text-base sm:text-xl md:text-2xl font-medium">
-        Dtion is the connected workspace where <br />
+        Dotion is the connected workspace where <br />
         better, faster work happens
       </h3>
       {isLoading && (
